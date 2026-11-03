@@ -1,0 +1,571 @@
+key	en	fr	ar
+app.name	Campus OS	Campus OS	Campus OS
+app.subtitle	School Administration Portal	Portail d’administration scolaire	بوابة الإدارة المدرسية
+app.tagline	A clearer picture of your school day.	Une vision plus claire de votre journée scolaire.	رؤية أوضح ليومك المدرسي.
+app.description	One thoughtful workspace for students, attendance, and the little things that keep a school running.	Un espace unique pour les élèves, les présences et le quotidien de votre établissement.	مساحة عمل متكاملة لشؤون الطلاب والحضور وكل ما يحافظ على سير المدرسة.
+nav.dashboard	Dashboard	Tableau de bord	لوحة التحكم
+nav.students	Students	Élèves	الطلاب
+nav.attendance	Digital Absence	Absences numériques	الغياب الرقمي
+nav.items	Lost & Found	Objets trouvés	المفقودات والموجودات
+nav.activity	Activity Log	Journal d’activité	سجل النشاط
+nav.settings	Settings	Paramètres	الإعدادات
+nav.ai	Campus AI	Campus AI	مساعد Campus AI
+nav.administration	Administration	Administration	الإدارة
+nav.tools	Workspace tools	Outils de travail	أدوات العمل
+nav.open	Open navigation	Ouvrir la navigation	فتح القائمة
+nav.collapse	Collapse sidebar	Réduire le menu latéral	طي الشريط الجانبي
+nav.expand	Expand sidebar	Développer le menu latéral	توسيع الشريط الجانبي
+common.total	Total	Total	الإجمالي
+common.all	All	Tous	الكل
+common.actions	Actions	Actions	الإجراءات
+common.save	Save Changes	Enregistrer les modifications	حفظ التغييرات
+common.saving	Saving…	Enregistrement…	جارٍ الحفظ…
+common.cancel	Cancel	Annuler	إلغاء
+common.cancelChanges	Cancel Changes	Annuler les modifications	إلغاء التغييرات
+common.delete	Delete	Supprimer	حذف
+common.edit	Edit	Modifier	تعديل
+common.view	View	Consulter	عرض
+common.close	Close	Fermer	إغلاق
+common.search	Search	Rechercher	بحث
+common.filter	Filters	Filtres	عوامل التصفية
+common.reset	Reset	Réinitialiser	إعادة تعيين
+common.export	Export	Exporter	تصدير
+common.csv	Export CSV	Exporter en CSV	تصدير CSV
+common.pdf	Download PDF	Télécharger le PDF	تنزيل PDF
+common.loading	Loading…	Chargement…	جارٍ التحميل…
+common.back	Back	Retour	رجوع
+common.next	Next	Suivant	التالي
+common.previous	Previous	Précédent	السابق
+common.page	Page {{page}} of {{total}}	Page {{page}} sur {{total}}	الصفحة {{page}} من {{total}}
+common.results	{{count}} results	{{count}} résultats	{{count}} نتيجة
+common.noResults	No matching records	Aucun résultat correspondant	لا توجد سجلات مطابقة
+common.noResultsDescription	Try another search or adjust your filters.	Essayez une autre recherche ou modifiez vos filtres.	جرّب بحثًا آخر أو عدّل عوامل التصفية.
+common.required	Required	Obligatoire	مطلوب
+common.optional	Optional	Facultatif	اختياري
+common.today	Today	Aujourd’hui	اليوم
+common.date	Date	Date	التاريخ
+common.from	From	Du	من
+common.to	To	Au	إلى
+common.status	Status	Statut	الحالة
+common.class	Class	Classe	القسم
+common.student	Student	Élève	الطالب
+common.name	Name	Nom	الاسم
+common.notes	Additional notes	Notes complémentaires	ملاحظات إضافية
+common.time	Time	Heure	الوقت
+common.reason	Reason	Motif	السبب
+common.category	Category	Catégorie	الفئة
+common.location	Location	Lieu	المكان
+common.allClasses	All classes	Toutes les classes	جميع الأقسام
+common.allStatuses	All statuses	Tous les statuts	جميع الحالات
+common.confirm	Confirm	Confirmer	تأكيد
+common.saved	Changes saved successfully.	Les modifications ont été enregistrées.	تم حفظ التغييرات بنجاح.
+common.deleted	Record deleted.	Enregistrement supprimé.	تم حذف السجل.
+common.created	Record created successfully.	Enregistrement créé.	تم إنشاء السجل بنجاح.
+common.updated	Record updated successfully.	Enregistrement mis à jour.	تم تحديث السجل بنجاح.
+common.copied	Copied to clipboard.	Copié dans le presse-papiers.	تم النسخ إلى الحافظة.
+common.copy	Copy response	Copier la réponse	نسخ الرد
+common.retry	Try again	Réessayer	إعادة المحاولة
+common.download	Download	Télécharger	تنزيل
+common.enabled	Enabled	Activé	مفعّل
+common.disabled	Disabled	Désactivé	معطّل
+common.language	Language	Langue	اللغة
+common.theme	Theme	Thème	المظهر
+common.profile	Profile	Profil	الملف الشخصي
+common.logout	Log out	Se déconnecter	تسجيل الخروج
+common.workspace	School workspace	Espace scolaire	مساحة المدرسة
+common.schoolName	Your school	Votre établissement	مدرستك
+common.demo	Local demo	Démo locale	نسخة تجريبية محلية
+common.localOnly	Stored on this device	Stockées sur cet appareil	محفوظة على هذا الجهاز
+common.privacy	Private school workspace	Espace scolaire privé	مساحة مدرسية خاصة
+common.records	Records	Enregistrements	السجلات
+common.details	Details	Détails	التفاصيل
+common.select	Select a student	Sélectionner un élève	اختر طالبًا
+common.unrecorded	Not recorded	Non renseigné	غير مسجّل
+common.active	Active	Actif	نشط
+common.inactive	Inactive	Inactif	غير نشط
+common.itemsPerPage	Rows per page	Lignes par page	عدد الصفوف في الصفحة
+common.selected	{{count}} selected	{{count}} sélectionné(s)	{{count}} محدد
+common.selectAll	Select all visible students	Sélectionner tous les élèves visibles	تحديد جميع الطلاب الظاهرين
+common.clearFilters	Clear filters	Effacer les filtres	مسح عوامل التصفية
+common.moreActions	More actions	Plus d’actions	المزيد من الإجراءات
+common.showing	Showing {{from}}–{{to}} of {{total}}	Affichage de {{from}} à {{to}} sur {{total}}	عرض {{from}}–{{to}} من {{total}}
+common.error	Something went wrong	Un problème est survenu	حدث خطأ ما
+common.closeDialog	Close dialog	Fermer la fenêtre	إغلاق النافذة
+common.notAvailable	Not available	Non disponible	غير متاح
+common.unsaved	Unsaved changes	Modifications non enregistrées	تغييرات غير محفوظة
+common.savedLocally	Saved on this device	Enregistré sur cet appareil	محفوظ على هذا الجهاز
+common.perPage	per page	par page	لكل صفحة
+common.days	days	jours	أيام
+common.students	students	élèves	طلاب
+common.items	items	objets	عناصر
+common.percentOfRegistered	{{value}}% of registered students	{{value}} % des élèves inscrits	{{value}}٪ من الطلاب المسجلين
+auth.eyebrow	Your school, in sync.	Votre établissement, connecté.	مدرستك، في تناغم.
+auth.featureStudents	Student records, thoughtfully organized.	Les dossiers élèves, bien organisés.	سجلات الطلاب، منظمة بعناية.
+auth.featureAttendance	Absence management, made clearer.	La gestion des absences, simplifiée.	إدارة الغياب، بكل وضوح.
+auth.featureItems	A place for every lost belonging.	Chaque objet perdu retrouve sa place.	مكان لكل غرض مفقود.
+auth.welcome	Welcome back	Bon retour	مرحبًا بعودتك
+auth.signInDescription	Sign in to your school administration workspace.	Connectez-vous à votre espace d’administration scolaire.	سجّل الدخول إلى مساحة الإدارة المدرسية.
+auth.identity	Email or username	E-mail ou identifiant	البريد الإلكتروني أو اسم المستخدم
+auth.identityPlaceholder	Enter your username	Saisissez votre identifiant	أدخل اسم المستخدم
+auth.password	Password	Mot de passe	كلمة المرور
+auth.passwordPlaceholder	Enter your password	Saisissez votre mot de passe	أدخل كلمة المرور
+auth.showPassword	Show password	Afficher le mot de passe	إظهار كلمة المرور
+auth.hidePassword	Hide password	Masquer le mot de passe	إخفاء كلمة المرور
+auth.remember	Remember me	Se souvenir de moi	تذكرني
+auth.signIn	Sign in	Se connecter	تسجيل الدخول
+auth.signingIn	Signing in…	Connexion…	جارٍ تسجيل الدخول…
+auth.invalid	Incorrect username or password. Please try again.	Identifiant ou mot de passe incorrect. Réessayez.	اسم المستخدم أو كلمة المرور غير صحيحة. حاول مجددًا.
+auth.demoNotice	Demo access only. Records stay in this browser; this is not secure production authentication.	Accès de démonstration. Les données restent dans ce navigateur ; ce système n’est pas une authentification de production sécurisée.	وصول تجريبي فقط. تبقى السجلات في هذا المتصفح؛ وهذه ليست مصادقة آمنة للإنتاج.
+auth.footer	Built for the people behind a great school.	Au service de celles et ceux qui font vivre l’école.	من أجل الأشخاص الذين يقفون وراء مدرسة رائعة.
+dashboard.title	Administration Dashboard	Tableau de bord administratif	لوحة الإدارة المدرسية
+dashboard.subtitle	Welcome back, {{name}}. Here’s what’s happening at your school today.	Bienvenue, {{name}}. Voici l’actualité de votre établissement aujourd’hui.	مرحبًا بعودتك، {{name}}. إليك ما يحدث في مدرستك اليوم.
+dashboard.totalStudents	Total Students	Élèves inscrits	إجمالي الطلاب
+dashboard.presentToday	Present Today	Présents aujourd’hui	الحاضرون اليوم
+dashboard.absentToday	Absent Today	Absents aujourd’hui	الغائبون اليوم
+dashboard.pendingItems	Lost Items Pending	Objets en attente	العناصر المعلقة
+dashboard.attendance	Attendance overview	Aperçu des présences	نظرة عامة على الحضور
+dashboard.attendanceHint	Today’s attendance, at a glance	Les présences du jour en un coup d’œil	حضور اليوم في لمحة
+dashboard.attendanceRate	Present rate	Taux de présence	نسبة الحضور
+dashboard.recorded	{{count}} of {{total}} students recorded	{{count}} élèves renseignés sur {{total}}	تم تسجيل {{count}} من أصل {{total}} طالبًا
+dashboard.week	Attendance this week	Présences cette semaine	الحضور هذا الأسبوع
+dashboard.weekHint	Daily recorded attendance over the last 7 days	Présences enregistrées au cours des 7 derniers jours	الحضور المسجل خلال الأيام السبعة الماضية
+dashboard.recentActivity	Recent activity	Activité récente	النشاط الأخير
+dashboard.viewAll	View all	Tout afficher	عرض الكل
+dashboard.quickActions	Quick actions	Actions rapides	إجراءات سريعة
+dashboard.quickHint	Less admin. More time for your school.	Moins de gestion. Plus de temps pour votre école.	إدارة أقل. ووقت أكثر لمدرستك.
+dashboard.registerStudent	Register a new student	Inscrire un élève	تسجيل طالب جديد
+dashboard.recordAbsence	Record an absence	Enregistrer une absence	تسجيل غياب
+dashboard.reportItem	Report a found item	Déclarer un objet trouvé	الإبلاغ عن عنصر موجود
+dashboard.viewAttendance	View attendance records	Consulter les présences	عرض سجلات الحضور
+dashboard.getStarted	Make yourself at home	Prenez vos marques	ابدأ بإعداد مدرستك
+dashboard.getStartedHint	A few small steps to get your school ready.	Quelques étapes pour préparer votre établissement.	خطوات بسيطة لتجهيز مدرستك.
+dashboard.stepSchool	Add your school information	Renseigner votre établissement	أضف معلومات مدرستك
+dashboard.stepStudents	Register your first student	Inscrire votre premier élève	سجّل طالبك الأول
+dashboard.stepAttendance	Start recording attendance	Commencer le suivi des présences	ابدأ بتسجيل الحضور
+dashboard.complete	Complete	Terminé	مكتمل
+dashboard.pending	To do	À faire	قيد الانتظار
+dashboard.noAttendanceHint	Add students, then record your first school day.	Ajoutez des élèves, puis renseignez votre première journée.	أضف الطلاب، ثم سجّل أول يوم دراسي.
+students.title	Students	Élèves	الطلاب
+students.subtitle	Manage and view all registered students.	Gérez et consultez tous les élèves inscrits.	إدارة وعرض جميع الطلاب المسجلين.
+students.add	Add Student	Ajouter un élève	إضافة طالب
+students.edit	Edit Student	Modifier l’élève	تعديل الطالب
+students.search	Search students by name or ID…	Rechercher par nom ou identifiant…	ابحث عن الطلاب بالاسم أو الرقم…
+students.id	Student ID	Identifiant élève	رقم الطالب
+students.fullName	Full Name	Nom complet	الاسم الكامل
+students.firstName	First name	Prénom	الاسم الشخصي
+students.lastName	Last name	Nom de famille	الاسم العائلي
+students.gender	Gender	Genre	الجنس
+students.female	Female	Fille	أنثى
+students.male	Male	Garçon	ذكر
+students.unspecified	Not specified	Non renseigné	غير محدد
+students.phone	Guardian contact	Contact du tuteur	جهة اتصال ولي الأمر
+students.dob	Date of birth	Date de naissance	تاريخ الميلاد
+students.enrollment	Enrollment status	Statut d’inscription	حالة التسجيل
+students.attendance	Attendance today	Présence aujourd’hui	الحضور اليوم
+students.profile	Student profile	Profil de l’élève	ملف الطالب
+students.viewProfile	View Profile	Voir le profil	عرض الملف
+students.deleteTitle	Delete student?	Supprimer cet élève ?	هل تريد حذف الطالب؟
+students.deleteDescription	This permanently removes {{name}}, their attendance records, and their links to lost and found reports. This cannot be undone.	Cette action supprime définitivement {{name}}, ses présences et ses liens aux objets trouvés. Elle est irréversible.	سيؤدي هذا إلى حذف {{name}} وسجلات حضوره وروابطه ببلاغات المفقودات نهائيًا. لا يمكن التراجع عن ذلك.
+students.classPlaceholder	e.g. Grade 7 · A	e. g. 7e · A	مثال: السابع · أ
+students.notesPlaceholder	Only add information needed for administration.	Ajoutez uniquement les informations administratives nécessaires.	أضف فقط المعلومات اللازمة للإدارة.
+students.summary	Attendance summary	Bilan des présences	ملخص الحضور
+students.recentAbsences	Recent absence records	Absences récentes	سجلات الغياب الأخيرة
+students.linkedItems	Associated belongings	Objets associés	العناصر المرتبطة
+students.noAbsences	No absence records for this student.	Aucune absence enregistrée pour cet élève.	لا توجد سجلات غياب لهذا الطالب.
+students.noLinkedItems	No associated lost and found reports.	Aucun signalement d’objet associé.	لا توجد بلاغات مفقودات مرتبطة.
+students.registered	Registered {{date}}	Inscrit le {{date}}	مسجّل في {{date}}
+students.recordAttendance	Record attendance	Enregistrer la présence	تسجيل الحضور
+students.totalRegistered	{{count}} registered students	{{count}} élèves inscrits	{{count}} طالبًا مسجلًا
+students.activeCount	{{count}} active enrollments	{{count}} inscriptions actives	{{count}} تسجيلًا نشطًا
+students.privacy	Student details stay in this local workspace.	Les informations des élèves restent dans cet espace local.	تبقى تفاصيل الطلاب في مساحة العمل المحلية هذه.
+attendance.title	Digital Absence System	Gestion numérique des absences	نظام الغياب الرقمي
+attendance.subtitle	Monitor daily student attendance and manage absence records.	Suivez les présences quotidiennes et gérez les absences.	راقب الحضور اليومي وأدر سجلات الغياب.
+attendance.daily	Daily attendance	Présences du jour	الحضور اليومي
+attendance.history	Attendance history	Historique des présences	سجل الحضور
+attendance.reports	Reports	Rapports	التقارير
+attendance.present	Present	Présent	حاضر
+attendance.absent	Absent	Absent	غائب
+attendance.late	Late	En retard	متأخر
+attendance.excused	Excused	Absence justifiée	غياب مبرر
+attendance.mark	Update attendance	Modifier la présence	تحديث الحضور
+attendance.edit	Edit attendance record	Modifier la présence	تعديل سجل الحضور
+attendance.record	Record attendance	Enregistrer la présence	تسجيل الحضور
+attendance.reasonLabel	Absence reason	Motif de l’absence	سبب الغياب
+attendance.reasonPlaceholder	Enter a reason for this record…	Indiquez le motif…	أدخل سبب هذا السجل…
+attendance.type	Absence type	Type d’absence	نوع الغياب
+attendance.medical	Medical	Médical	طبي
+attendance.family	Family	Familial	عائلي
+attendance.authorized	Authorized	Autorisé	مصرّح به
+attendance.unexplained	Unexplained	Non expliqué	غير مبرر
+attendance.other	Other	Autre	أخرى
+attendance.allStudents	All students	Tous les élèves	جميع الطلاب
+attendance.notRecorded	Not recorded	Non renseigné	غير مسجّل
+attendance.dateLabel	Attendance date	Date de présence	تاريخ الحضور
+attendance.selectedDate	Attendance for {{date}}	Présences du {{date}}	حضور يوم {{date}}
+attendance.incomplete	{{count}} students still need an attendance record.	Il reste {{count}} élèves à renseigner.	لا يزال {{count}} طالبًا بحاجة إلى تسجيل الحضور.
+attendance.allRecorded	Every active student has a record for this date.	Tous les élèves actifs sont renseignés pour cette date.	تم تسجيل حضور جميع الطلاب النشطين لهذا التاريخ.
+attendance.bulkPresent	Mark selected present	Marquer la sélection présente	تسجيل المحددين حاضرين
+attendance.bulkConfirm	Update {{count}} students to present? Existing records for this date will be updated.	Marquer {{count}} élèves présents ? Les données existantes du jour seront mises à jour.	هل تريد تسجيل {{count}} طالبًا حاضرين؟ سيتم تحديث السجلات الموجودة لهذا التاريخ.
+attendance.frequency	Absence frequency	Fréquence des absences	تكرار الغياب
+attendance.frequencyHint	Absent and excused records per student in this period.	Absences et absences justifiées par élève sur la période.	سجلات الغياب والمبرر لكل طالب خلال هذه الفترة.
+attendance.absenceCount	Absences	Absences	حالات الغياب
+attendance.dailyRate	Daily attendance rate	Taux de présence quotidien	نسبة الحضور اليومية
+attendance.totalAbsences	Total absences	Total des absences	إجمالي الغيابات
+attendance.topClasses	Highest absence rates	Taux d’absence les plus élevés	أعلى نسب الغياب
+attendance.topClassesHint	Share of recorded attendance marked absent, by class.	Part des présences enregistrées indiquées absentes, par classe.	نسبة السجلات المسجلة كغياب، حسب القسم.
+attendance.trends	Attendance trends	Évolution des présences	اتجاهات الحضور
+attendance.range	Date range	Période	النطاق الزمني
+attendance.last7	Last 7 days	7 derniers jours	آخر 7 أيام
+attendance.last30	Last 30 days	30 derniers jours	آخر 30 يومًا
+attendance.thisMonth	This month	Ce mois-ci	هذا الشهر
+attendance.reportTitle	Attendance report	Rapport de présence	تقرير الحضور
+attendance.reportHint	Measured from stored records · present includes late arrivals.	Calculé à partir des données enregistrées · les retards comptent comme présents.	محسوب من السجلات المحفوظة · يشمل الحضور المتأخرين.
+attendance.recordedOnly	Rates use recorded attendance, not total enrollment.	Les taux portent sur les présences renseignées, pas sur l’effectif total.	تعتمد النسب على الحضور المسجّل، وليس إجمالي المسجلين.
+attendance.noClassData	No class attendance to compare yet.	Aucune présence par classe à comparer.	لا توجد بيانات حضور للأقسام للمقارنة بعد.
+attendance.excusedHint	Excused absences are kept separate from unexplained absences.	Les absences justifiées sont distinguées des absences non expliquées.	تُفصل الغيابات المبررة عن الغياب غير المبرر.
+items.title	Lost & Found	Objets trouvés	المفقودات والموجودات
+items.subtitle	Keep track of lost belongings and items found around the school.	Suivez les objets perdus et trouvés dans votre établissement.	تتبّع الأغراض المفقودة والعناصر الموجودة في المدرسة.
+items.total	Total Reported Items	Objets signalés	إجمالي العناصر المبلغ عنها
+items.lost	Lost Items	Objets perdus	العناصر المفقودة
+items.found	Found Items	Objets trouvés	العناصر الموجودة
+items.claimed	Claimed Items	Objets restitués	العناصر المستلمة
+items.lostSingle	Lost	Perdu	مفقود
+items.foundSingle	Found	Trouvé	موجود
+items.claimedSingle	Claimed	Restitué	مستلم
+items.archived	Archived	Archivé	مؤرشف
+items.open	Open reports	Signalements en cours	البلاغات المفتوحة
+items.reportLost	Report Lost Item	Déclarer un objet perdu	الإبلاغ عن عنصر مفقود
+items.reportFound	Report Found Item	Déclarer un objet trouvé	الإبلاغ عن عنصر موجود
+items.edit	Edit item	Modifier l’objet	تعديل العنصر
+items.name	Item name	Nom de l’objet	اسم العنصر
+items.namePlaceholder	e.g. Blue scientific calculator	e. g. Calculatrice scientifique bleue	مثال: آلة حاسبة علمية زرقاء
+items.description	Description	Description	الوصف
+items.descriptionPlaceholder	Color, distinguishing features, and other useful details…	Couleur, signes distinctifs et autres détails utiles…	اللون والسمات المميزة والتفاصيل المفيدة…
+items.dateLost	Date lost	Date de perte	تاريخ الفقدان
+items.dateFound	Date found	Date de découverte	تاريخ العثور
+items.locationLost	Approximate location	Lieu approximatif	المكان التقريبي
+items.locationFound	Location found	Lieu de découverte	مكان العثور
+items.reporter	Reported by	Signalé par	مقدّم البلاغ
+items.finder	Person who found the item	Personne ayant trouvé l’objet	الشخص الذي عثر على العنصر
+items.reporterName	Student or reporter name	Nom de l’élève ou du déclarant	اسم الطالب أو مقدّم البلاغ
+items.contact	Contact information	Coordonnées	معلومات الاتصال
+items.image	Item photo	Photo de l’objet	صورة العنصر
+items.imageHint	PNG or JPG, up to 10 MB. Images are resized locally.	PNG ou JPG, 10 Mo maximum. Redimensionnement local.	PNG أو JPG، حتى 10 ميغابايت. يتم تغيير حجم الصور محليًا.
+items.studentLink	Link to a student (optional)	Associer à un élève (facultatif)	ربط بطالب (اختياري)
+items.detail	Item details	Détails de l’objet	تفاصيل العنصر
+items.search	Search items by name or description…	Rechercher par nom ou description…	ابحث عن العناصر بالاسم أو الوصف…
+items.allCategories	All categories	Toutes les catégories	جميع الفئات
+items.newest	Newest first	Plus récents d’abord	الأحدث أولًا
+items.oldest	Oldest first	Plus anciens d’abord	الأقدم أولًا
+items.sort	Sort by	Trier par	الترتيب حسب
+items.claim	Mark as claimed	Marquer comme restitué	تسجيل الاستلام
+items.claimTitle	Confirm item collection	Confirmer la remise de l’objet	تأكيد استلام العنصر
+items.claimHint	Record who collected this item before closing the report.	Enregistrez qui a récupéré l’objet avant de clôturer le signalement.	سجّل من استلم هذا العنصر قبل إغلاق البلاغ.
+items.collectedBy	Person who collected the item	Personne ayant récupéré l’objet	الشخص الذي استلم العنصر
+items.collectedDate	Date collected	Date de remise	تاريخ الاستلام
+items.claimDetails	Collection details	Détails de la remise	تفاصيل الاستلام
+items.archive	Archive item	Archiver l’objet	أرشفة العنصر
+items.archiveTitle	Archive this item?	Archiver cet objet ?	هل تريد أرشفة هذا العنصر؟
+items.archiveDescription	The item will leave the open reports view. You can still find it using the Archived filter.	L’objet quittera les signalements en cours, mais restera accessible avec le filtre Archivé.	سيختفي العنصر من البلاغات المفتوحة. ستظل قادرًا على العثور عليه باستخدام مرشح المؤرشف.
+items.restore	Reopen report	Rouvrir le signalement	إعادة فتح البلاغ
+items.deleteTitle	Delete this item?	Supprimer cet objet ?	هل تريد حذف هذا العنصر؟
+items.deleteDescription	This permanently deletes the report and any collection information. This cannot be undone.	Le signalement et les informations de remise seront définitivement supprimés. Cette action est irréversible.	سيتم حذف البلاغ ومعلومات الاستلام نهائيًا. لا يمكن التراجع عن ذلك.
+items.unclaimed	{{count}} items awaiting collection	{{count}} objets en attente de remise	{{count}} عنصرًا بانتظار الاستلام
+items.reportedOn	Reported {{date}}	Signalé le {{date}}	تم الإبلاغ في {{date}}
+items.noPhoto	No photo uploaded	Aucune photo ajoutée	لم يتم رفع صورة
+items.electronics	Electronics	Électronique	إلكترونيات
+items.clothing	Clothing	Vêtements	ملابس
+items.bags	Bags	Sacs	حقائب
+items.books	Books	Livres	كتب
+items.accessories	Accessories	Accessoires	إكسسوارات
+items.schoolSupplies	School Supplies	Fournitures scolaires	أدوات مدرسية
+items.other	Other	Autres	أخرى
+activity.title	Activity Log	Journal d’activité	سجل النشاط
+activity.subtitle	A clear record of the actions that keep your school running.	Un historique clair des actions de votre établissement.	سجل واضح للإجراءات التي تحافظ على سير مدرستك.
+activity.action	Action	Action	الإجراء
+activity.description	Description	Description	الوصف
+activity.administrator	Administrator	Administrateur	المسؤول
+activity.timestamp	Timestamp	Horodatage	الوقت والتاريخ
+activity.allTypes	All activity types	Tous types d’activité	جميع أنواع النشاط
+activity.readOnly	Activity history is read-only.	L’historique des activités est en lecture seule.	سجل النشاط للقراءة فقط.
+activity.studentCreated	Student registered	Élève inscrit	تسجيل طالب
+activity.studentEdited	Student updated	Élève modifié	تحديث طالب
+activity.studentDeleted	Student deleted	Élève supprimé	حذف طالب
+activity.attendanceUpdated	Attendance updated	Présence mise à jour	تحديث الحضور
+activity.absenceRecorded	Absence recorded	Absence enregistrée	تسجيل غياب
+activity.lostReported	Lost item reported	Objet perdu signalé	الإبلاغ عن مفقود
+activity.foundReported	Found item reported	Objet trouvé signalé	الإبلاغ عن موجود
+activity.itemEdited	Item updated	Objet modifié	تحديث عنصر
+activity.itemClaimed	Item collected	Objet restitué	استلام عنصر
+activity.itemArchived	Item archived	Objet archivé	أرشفة عنصر
+activity.itemDeleted	Item deleted	Objet supprimé	حذف عنصر
+activity.settingsUpdated	Settings updated	Paramètres modifiés	تحديث الإعدادات
+activity.log.studentCreated	{{name}} was registered in {{class}}.	{{name}} a été inscrit(e) en {{class}}.	تم تسجيل {{name}} في {{class}}.
+activity.log.studentEdited	{{name}}’s student record was updated.	Le dossier de {{name}} a été mis à jour.	تم تحديث سجل الطالب {{name}}.
+activity.log.studentDeleted	{{name}}’s student record was deleted.	Le dossier de {{name}} a été supprimé.	تم حذف سجل الطالب {{name}}.
+activity.log.attendanceUpdated	Attendance for {{name}} was updated to {{status}}.	La présence de {{name}} a été mise à jour : {{status}}.	تم تحديث حضور {{name}} إلى {{status}}.
+activity.log.absenceRecorded	An absence was recorded for {{name}}.	Une absence a été enregistrée pour {{name}}.	تم تسجيل غياب {{name}}.
+activity.log.lostReported	{{name}} was reported lost.	{{name}} a été signalé perdu.	تم الإبلاغ عن فقدان {{name}}.
+activity.log.foundReported	{{name}} was reported found.	{{name}} a été signalé trouvé.	تم الإبلاغ عن العثور على {{name}}.
+activity.log.itemEdited	The report for {{name}} was updated.	Le signalement de {{name}} a été mis à jour.	تم تحديث بلاغ {{name}}.
+activity.log.itemClaimed	{{name}} was collected by {{person}}.	{{name}} a été récupéré par {{person}}.	استلم {{person}} العنصر {{name}}.
+activity.log.itemArchived	{{name}} was archived.	{{name}} a été archivé.	تمت أرشفة {{name}}.
+activity.log.itemDeleted	The report for {{name}} was deleted.	Le signalement de {{name}} a été supprimé.	تم حذف بلاغ {{name}}.
+activity.log.settingsUpdated	{{section}} settings were updated.	Les paramètres « {{section}} » ont été modifiés.	تم تحديث إعدادات {{section}}.
+empty.studentsTitle	No students registered yet	Aucun élève inscrit pour le moment	لم يتم تسجيل أي طالب بعد
+empty.studentsDescription	Start by adding your school’s students to the system.	Commencez par ajouter les élèves de votre établissement.	ابدأ بإضافة طلاب مدرستك إلى النظام.
+empty.registerFirst	Register First Student	Inscrire le premier élève	تسجيل الطالب الأول
+empty.attendanceTitle	No attendance records	Aucune présence enregistrée	لا توجد سجلات حضور
+empty.attendanceDescription	Attendance records will appear here once you start recording daily attendance.	Les présences apparaîtront ici dès leur enregistrement quotidien.	ستظهر سجلات الحضور هنا بمجرد بدء تسجيل الحضور اليومي.
+empty.itemsTitle	No items reported yet	Aucun objet signalé pour le moment	لم يتم الإبلاغ عن عناصر بعد
+empty.itemsDescription	Lost and found reports will appear here when someone submits a report.	Les objets perdus et trouvés apparaîtront ici après un signalement.	ستظهر بلاغات المفقودات والموجودات هنا عند تقديم بلاغ.
+empty.activityTitle	No recent activity	Aucune activité récente	لا يوجد نشاط حديث
+empty.activityDescription	Administrative actions will appear here automatically.	Les actions administratives apparaîtront ici automatiquement.	ستظهر الإجراءات الإدارية هنا تلقائيًا.
+empty.notificationsTitle	You’re all caught up!	Vous êtes à jour !	أنت على اطلاع بكل شيء!
+empty.notificationsDescription	There are currently no new notifications.	Aucune nouvelle notification pour le moment.	لا توجد إشعارات جديدة حاليًا.
+notifications.title	Notifications	Notifications	الإشعارات
+notifications.markAll	Mark all as read	Tout marquer comme lu	تحديد الكل كمقروء
+notifications.markRead	Mark as read	Marquer comme lu	تحديد كمقروء
+notifications.unread	{{count}} unread	{{count}} non lu(s)	{{count}} غير مقروء
+notifications.view	View notifications	Afficher les notifications	عرض الإشعارات
+notifications.incompleteTitle	Attendance records are incomplete	Présences incomplètes	سجلات الحضور غير مكتملة
+notifications.preferences	Notification preferences	Préférences de notification	تفضيلات الإشعارات
+search.placeholder	Search students, items, or attendance…	Rechercher des élèves, objets ou présences…	ابحث عن الطلاب أو العناصر أو الحضور…
+search.title	Search your workspace	Rechercher dans votre espace	البحث في مساحة العمل
+search.hint	Search by student name, ID, item, or date.	Recherchez par nom, identifiant, objet ou date.	ابحث باسم الطالب أو رقمه أو العنصر أو التاريخ.
+search.empty	Start typing to find a record.	Commencez à saisir pour trouver un enregistrement.	ابدأ الكتابة للعثور على سجل.
+search.attendanceRecord	{{name}} · {{date}}	{{name}} · {{date}}	{{name}} · {{date}}
+search.localHint	Search runs locally. No personal records are sent to AI.	Recherche locale. Aucune donnée personnelle n’est envoyée à l’IA.	يتم البحث محليًا. لا تُرسل السجلات الشخصية إلى الذكاء الاصطناعي.
+search.navigate	Navigate	Naviguer	تنقّل
+search.open	Open	Ouvrir	فتح
+settings.title	Settings	Paramètres	الإعدادات
+settings.subtitle	Make Campus OS work for your school.	Adaptez Campus OS à votre établissement.	اجعل Campus OS مناسبًا لمدرستك.
+settings.general	General	Général	عام
+settings.appearance	Appearance	Apparence	المظهر
+settings.region	Language & Region	Langue et région	اللغة والمنطقة
+settings.notifications	Notifications	Notifications	الإشعارات
+settings.profile	Administrator Profile	Profil de l’administrateur	ملف المسؤول
+settings.school	School Information	Informations sur l’établissement	معلومات المدرسة
+settings.security	Security	Sécurité	الأمان
+settings.ai	AI Assistant	Assistant IA	المساعد الذكي
+settings.categories	Settings categories	Catégories de paramètres	فئات الإعدادات
+settings.generalDescription	The essentials for your school workspace.	L’essentiel de votre espace scolaire.	الأساسيات الخاصة بمساحة مدرستك.
+settings.appearanceDescription	A comfortable workspace, in every light.	Un espace agréable, de jour comme de nuit.	مساحة عمل مريحة في كل إضاءة.
+settings.regionDescription	Your language, dates, and local conventions.	Votre langue, vos dates et vos conventions locales.	لغتك وتواريخك وتنسيقاتك المحلية.
+settings.notificationsDescription	Choose what you want to hear about.	Choisissez les événements qui vous intéressent.	اختر ما تريد تلقي إشعارات بشأنه.
+settings.profileDescription	Your name and face, across your workspace.	Votre nom et votre photo dans tout votre espace.	اسمك وصورتك في جميع أنحاء مساحة العمل.
+settings.schoolDescription	The details that make this workspace yours.	Les informations propres à votre établissement.	التفاصيل التي تجعل مساحة العمل هذه خاصة بك.
+settings.securityDescription	Understand access and protect your school’s information.	Comprenez les accès et protégez les informations scolaires.	افهم صلاحيات الوصول واحمِ معلومات مدرستك.
+settings.aiDescription	Connect intelligence. Keep control of your data.	Connectez l’intelligence. Gardez le contrôle de vos données.	اربط الذكاء الاصطناعي مع الحفاظ على التحكم في بياناتك.
+settings.light	Light Mode	Mode clair	الوضع الفاتح
+settings.dark	Dark Mode	Mode sombre	الوضع الداكن
+settings.system	System Default	Paramètres du système	إعدادات النظام
+settings.lightHint	Bright, clear, and familiar.	Clair, net et familier.	مشرق وواضح ومألوف.
+settings.darkHint	Easy on the eyes after hours.	Agréable pour travailler le soir.	مريح للعينين بعد ساعات العمل.
+settings.systemHint	Follow your device’s appearance.	Suivre l’apparence de votre appareil.	اتباع مظهر جهازك.
+settings.themeHint	Theme changes apply immediately across the application.	Le thème s’applique immédiatement à toute l’application.	يُطبّق المظهر فورًا عبر التطبيق.
+settings.preferredLanguage	Preferred language	Langue préférée	اللغة المفضلة
+settings.dateFormat	Date format	Format de date	تنسيق التاريخ
+settings.timeFormat	Time format	Format de l’heure	تنسيق الوقت
+settings.hour12	12-hour	12 heures	12 ساعة
+settings.hour24	24-hour	24 heures	24 ساعة
+settings.timeZone	Time zone	Fuseau horaire	المنطقة الزمنية
+settings.regionFormat	Regional formatting	Format régional	التنسيق الإقليمي
+settings.country	Country	Pays	البلد
+settings.morocco	Morocco	Maroc	المغرب
+settings.weekStart	Week starts on	La semaine commence le	بداية الأسبوع
+settings.monday	Monday	Lundi	الاثنين
+settings.sunday	Sunday	Dimanche	الأحد
+settings.preview	Formatting preview	Aperçu du format	معاينة التنسيق
+settings.academicYear	Academic year	Année scolaire	العام الدراسي
+settings.attendanceDefault	Default attendance view	Vue de présence par défaut	عرض الحضور الافتراضي
+settings.pageSize	Default table page size	Taille de page des tableaux	حجم صفحة الجداول الافتراضي
+settings.absenceNotifications	Absence notifications	Notifications d’absence	إشعارات الغياب
+settings.absenceHint	When a student is marked absent.	Lorsqu’un élève est marqué absent.	عند تسجيل طالب غائبًا.
+settings.lostHint	When a lost belonging is reported.	Lorsqu’un objet perdu est signalé.	عند الإبلاغ عن غرض مفقود.
+settings.foundHint	When a found item is added to the register.	Lorsqu’un objet trouvé est ajouté au registre.	عند إضافة عنصر موجود إلى السجل.
+settings.claimedHint	When an item is successfully collected.	Lorsqu’un objet est restitué.	عند استلام عنصر بنجاح.
+settings.systemNotifications	System notifications	Notifications système	إشعارات النظام
+settings.systemNotificationsHint	Important workspace and setup information.	Informations importantes sur l’espace et la configuration.	معلومات مهمة حول مساحة العمل والإعداد.
+settings.activityNotifications	Activity notifications	Notifications d’activité	إشعارات النشاط
+settings.activityHint	Other administrative changes and updates.	Autres modifications et mises à jour administratives.	التغييرات والتحديثات الإدارية الأخرى.
+settings.notificationsHint	Preferences apply to new notifications. The activity log always records changes.	Ces préférences concernent les nouvelles notifications. Le journal conserve toujours toutes les actions.	تنطبق التفضيلات على الإشعارات الجديدة. يسجل سجل النشاط التغييرات دائمًا.
+settings.displayName	Display Name	Nom affiché	الاسم المعروض
+settings.username	Username	Identifiant	اسم المستخدم
+settings.role	Administrator Role	Rôle de l’administrateur	دور المسؤول
+settings.roleAdministrator	Administrator	Administrateur	مسؤول
+settings.rolePrincipal	Head of School	Direction de l’établissement	مدير المدرسة
+settings.roleRegistrar	Registrar	Responsable des inscriptions	مسؤول التسجيل
+settings.roleAttendance	Attendance Administrator	Responsable des présences	مسؤول الحضور
+settings.profilePicture	Profile Picture	Photo de profil	صورة الملف الشخصي
+settings.uploadPicture	Upload picture	Ajouter une photo	رفع صورة
+settings.replacePicture	Replace picture	Remplacer la photo	استبدال الصورة
+settings.removePicture	Remove picture	Supprimer la photo	إزالة الصورة
+settings.avatarHint	PNG, JPG, or JPEG. Resized to a small, local avatar.	PNG, JPG ou JPEG. Redimensionnée et stockée localement.	PNG أو JPG أو JPEG. يتم تصغيرها وحفظها محليًا.
+settings.profileHint	Your username and demo login stay unchanged when you edit your profile.	Votre identifiant et votre accès de démonstration restent inchangés.	يبقى اسم المستخدم وبيانات الدخول التجريبية دون تغيير عند تعديل ملفك.
+settings.editProfile	Edit Profile	Modifier le profil	تعديل الملف
+settings.schoolLogo	School logo	Logo de l’établissement	شعار المدرسة
+settings.address	School address	Adresse de l’établissement	عنوان المدرسة
+settings.city	City	Ville	المدينة
+settings.email	School email	E-mail de l’établissement	البريد الإلكتروني للمدرسة
+settings.phone	School phone number	Téléphone de l’établissement	رقم هاتف المدرسة
+settings.website	School website	Site web de l’établissement	الموقع الإلكتروني للمدرسة
+settings.schoolHint	Your school name and logo appear in the sidebar.	Le nom et le logo de votre établissement apparaissent dans le menu.	يظهر اسم مدرستك وشعارها في الشريط الجانبي.
+settings.demoSecurity	Demo authentication only	Authentification de démonstration uniquement	مصادقة تجريبية فقط
+settings.securityWarning	The temporary login is a client-side demonstration, not secure authentication. Anyone with the source can discover the credentials. Do not deploy this login to protect real student information.	La connexion temporaire est une démonstration côté client, et non une authentification sécurisée. Les identifiants sont visibles dans le code source. Ne l’utilisez pas pour protéger des données réelles en production.	تسجيل الدخول المؤقت عرض توضيحي في المتصفح وليس مصادقة آمنة. يمكن لأي شخص لديه الكود معرفة بيانات الدخول. لا تستخدمه لحماية معلومات الطلاب الحقيقية في الإنتاج.
+settings.passwordChange	Password changes	Modification du mot de passe	تغيير كلمة المرور
+settings.passwordLocked	The temporary credentials are fixed in this version. Connect server-verified authentication before enabling password changes.	Les identifiants temporaires sont fixes dans cette version. Connectez une authentification serveur avant d’activer le changement de mot de passe.	بيانات الدخول المؤقتة ثابتة في هذا الإصدار. اربط مصادقة موثقة من الخادم قبل تفعيل تغيير كلمة المرور.
+settings.productionChecklist	Before public deployment	Avant le déploiement public	قبل النشر العام
+settings.checkAuth	Replace demo login with server-verified authentication.	Remplacer la connexion de démonstration par une authentification serveur.	استبدل الدخول التجريبي بمصادقة موثقة من الخادم.
+settings.checkRls	Apply database permissions and row-level security.	Appliquer les permissions et la sécurité au niveau des lignes.	طبّق صلاحيات قاعدة البيانات وأمان الصفوف.
+settings.checkStorage	Move school records to an access-controlled database.	Migrer les données scolaires vers une base de données protégée.	انقل السجلات المدرسية إلى قاعدة بيانات محمية الوصول.
+settings.checkPrivacy	Review your school’s privacy and retention policies.	Vérifier les politiques de confidentialité et de conservation.	راجع سياسات الخصوصية والاحتفاظ بالبيانات في مدرستك.
+settings.localStorage	Local browser storage	Stockage local du navigateur	تخزين المتصفح المحلي
+settings.storageHint	Data is not encrypted by this app and is not synced between devices. Clear browser data only after making a backup.	L’application ne chiffre pas les données et ne les synchronise pas entre appareils. Sauvegardez avant d’effacer le navigateur.	لا يشفر هذا التطبيق البيانات ولا يزامنها بين الأجهزة. انسخ بياناتك احتياطيًا قبل مسح بيانات المتصفح.
+settings.backup	Export local backup	Exporter une sauvegarde locale	تصدير نسخة احتياطية محلية
+settings.backupHint	Download your records, settings, and chats. Keep the file private.	Téléchargez données, paramètres et conversations. Gardez ce fichier privé.	نزّل السجلات والإعدادات والمحادثات. احتفظ بالملف خاصًا.
+settings.enableAI	Enable Campus AI	Activer Campus AI	تفعيل Campus AI
+settings.enableAIHint	Show the assistant in your workspace navigation.	Afficher l’assistant dans le menu de l’espace.	إظهار المساعد في قائمة مساحة العمل.
+settings.provider	AI provider	Fournisseur d’IA	مزوّد الذكاء الاصطناعي
+settings.googleGemini	Google Gemini	Google Gemini	Google Gemini
+settings.connection	API connection	Connexion à l’API	اتصال واجهة البرمجة
+settings.connected	Configured server-side	Configuré côté serveur	مُعدّ على الخادم
+settings.notConfigured	Not configured	Non configuré	غير مُعدّ
+settings.authRequired	Administrator verification required	Vérification de l’administrateur requise	مطلوب التحقق من المسؤول
+settings.serverKey	API keys stay on the server. Never enter a secret key here.	Les clés API restent sur le serveur. Ne saisissez jamais de clé secrète ici.	تبقى مفاتيح API على الخادم. لا تدخل مفتاحًا سريًا هنا.
+settings.dataAccess	AI data access	Accès de l’IA aux données	وصول الذكاء الاصطناعي إلى البيانات
+settings.aggregates	Aggregated school statistics	Statistiques scolaires agrégées	الإحصاءات المدرسية المجمعة
+settings.aggregatesHint	Read-only counts and rates. Always minimized; no names or student IDs.	Compteurs et taux en lecture seule. Aucune donnée nominative ni identifiant élève.	أعداد ونسب للقراءة فقط. بدون أسماء أو أرقام الطلاب.
+settings.demographics	Include aggregate gender counts	Inclure les effectifs agrégés par genre	تضمين أعداد الطلاب حسب الجنس
+settings.demographicsHint	Only if collected and authorized. Never individual records.	Uniquement si collectés et autorisés. Jamais de dossiers individuels.	فقط إذا جُمعت ومصرح بها. لا سجلات فردية أبدًا.
+settings.itemSummaries	Include anonymized item descriptions	Inclure les descriptions anonymisées	تضمين أوصاف العناصر المجهولة
+settings.itemSummariesHint	Item names, categories, and locations only. No reporter details.	Noms, catégories et lieux uniquement. Aucune donnée sur le déclarant.	أسماء العناصر وفئاتها ومواقعها فقط. بدون تفاصيل مقدّم البلاغ.
+settings.activitySummaries	Include activity summaries	Inclure les résumés d’activité	تضمين ملخصات النشاط
+settings.activitySummariesHint	Action counts only. No administrator or student names.	Nombre d’actions uniquement. Aucun nom d’administrateur ou d’élève.	أعداد الإجراءات فقط. بدون أسماء المسؤولين أو الطلاب.
+settings.history	Conversation history	Historique des conversations	سجل المحادثات
+settings.saveHistory	Save conversations on this device	Enregistrer les conversations sur cet appareil	حفظ المحادثات على هذا الجهاز
+settings.saveHistoryHint	Personal identifiers are removed before messages are stored or sent.	Les identifiants personnels sont retirés avant stockage ou envoi.	تُزال المعرّفات الشخصية قبل تخزين الرسائل أو إرسالها.
+settings.clearHistory	Clear conversation history	Effacer l’historique des conversations	مسح سجل المحادثات
+settings.clearHistoryTitle	Clear all conversations?	Effacer toutes les conversations ?	هل تريد مسح جميع المحادثات؟
+settings.clearHistoryDescription	This permanently removes all Campus AI conversations from this browser. School records are not affected.	Cette action supprime définitivement les conversations de ce navigateur. Les données scolaires ne sont pas modifiées.	سيؤدي هذا إلى حذف جميع محادثات Campus AI من هذا المتصفح نهائيًا. لن تتأثر السجلات المدرسية.
+settings.setupAI	Configure on the server	Configurer sur le serveur	الإعداد على الخادم
+settings.connectionRefresh	Refresh connection	Actualiser la connexion	تحديث الاتصال
+ai.title	Campus AI	Campus AI	Campus AI
+ai.subtitle	Your intelligent school administration assistant.	Votre assistant intelligent d’administration scolaire.	مساعدك الذكي للإدارة المدرسية.
+ai.welcome	Welcome to Campus AI	Bienvenue sur Campus AI	مرحبًا بك في Campus AI
+ai.eyebrow	A little intelligence. A lot more clarity.	Un peu d’intelligence. Beaucoup plus de clarté.	قليل من الذكاء. كثير من الوضوح.
+ai.newChat	New conversation	Nouvelle conversation	محادثة جديدة
+ai.conversations	Conversations	Conversations	المحادثات
+ai.noConversations	Your conversations will appear here.	Vos conversations apparaîtront ici.	ستظهر محادثاتك هنا.
+ai.deleteChat	Delete conversation	Supprimer la conversation	حذف المحادثة
+ai.deleteChatTitle	Delete this conversation?	Supprimer cette conversation ?	هل تريد حذف هذه المحادثة؟
+ai.deleteChatDescription	This conversation will be permanently removed from this device.	Cette conversation sera définitivement supprimée de cet appareil.	ستُحذف هذه المحادثة نهائيًا من هذا الجهاز.
+ai.clear	Clear conversation history	Effacer l’historique	مسح سجل المحادثات
+ai.placeholder	Ask about your school…	Posez une question sur votre établissement…	اسأل عن مدرستك…
+ai.send	Send message	Envoyer le message	إرسال الرسالة
+ai.thinking	Working with your school statistics…	Analyse des statistiques scolaires…	جارٍ العمل مع إحصاءات مدرستك…
+ai.disclaimer	Campus AI can make mistakes. Verify important information. Read-only access.	Campus AI peut se tromper. Vérifiez les informations importantes. Accès en lecture seule.	قد يخطئ Campus AI. تحقق من المعلومات المهمة. الوصول للقراءة فقط.
+ai.promptStudents	How many students are registered?	Combien d’élèves sont inscrits ?	كم عدد الطلاب المسجلين؟
+ai.promptAbsent	How many students are absent today?	Combien d’élèves sont absents aujourd’hui ?	كم عدد الطلاب الغائبين اليوم؟
+ai.promptClasses	Which class has the highest absence rate?	Quelle classe a le taux d’absence le plus élevé ?	أي قسم لديه أعلى نسبة غياب؟
+ai.promptItems	How many items are currently unclaimed?	Combien d’objets attendent encore une remise ?	كم عدد العناصر التي لم تُستلم بعد؟
+ai.promptWeek	Summarize this week’s attendance.	Résumez les présences de cette semaine.	لخّص الحضور هذا الأسبوع.
+ai.promptReport	Generate a monthly school report.	Générez un rapport scolaire mensuel.	أنشئ تقريرًا مدرسيًا شهريًا.
+ai.localSearch	Search school records	Rechercher dans les dossiers	البحث في السجلات المدرسية
+ai.reports	Report generator	Générateur de rapports	منشئ التقارير
+ai.chat	Assistant chat	Conversation avec l’assistant	محادثة المساعد
+ai.notConnectedTitle	Connect Campus AI to get started	Connectez Campus AI pour commencer	اربط Campus AI للبدء
+ai.notConnected	Real AI replies require a server-side Gemini key plus either a verified administrator sign-in or the private demo access code. No simulated answers are generated.	Les vraies réponses nécessitent une clé Gemini côté serveur, ainsi qu’une connexion administrateur vérifiée ou le code d’accès démo privé. Aucune réponse simulée n’est générée.	تتطلب الردود الحقيقية مفتاح Gemini على الخادم، إضافة إلى تسجيل دخول مسؤول موثّق أو رمز الوصول التجريبي الخاص. لا يتم إنشاء ردود وهمية.
+ai.disabledTitle	Campus AI is turned off	Campus AI est désactivé	Campus AI متوقف
+ai.disabledDescription	Enable the assistant in AI settings. Local search and measured reports remain available.	Activez l’assistant dans les paramètres IA. La recherche locale et les rapports restent disponibles.	فعّل المساعد في إعدادات الذكاء الاصطناعي. يبقى البحث المحلي والتقارير المتاحة متاحين.
+ai.openSettings	Open AI settings	Ouvrir les paramètres IA	فتح إعدادات الذكاء الاصطناعي
+ai.setupChecklist	Server setup required	Configuration serveur requise	مطلوب إعداد الخادم
+ai.setupGemini	Set GEMINI_API_KEY and GEMINI_MODEL on Vercel.	Définissez GEMINI_API_KEY et GEMINI_MODEL sur Vercel.	عيّن GEMINI_API_KEY وGEMINI_MODEL على Vercel.
+ai.setupAuth	Set CAMPUS_AI_DEMO_CODE for a private demo, or connect Supabase Auth to verify the administrator role server-side.	Définissez CAMPUS_AI_DEMO_CODE pour une démo privée, ou connectez Supabase Auth pour vérifier le rôle administrateur côté serveur.	عيّن CAMPUS_AI_DEMO_CODE لعرض تجريبي خاص، أو اربط Supabase Auth للتحقق من دور المسؤول على الخادم.
+ai.dataSnapshot	Your live school data	Vos données scolaires en direct	بيانات مدرستك المباشرة
+ai.dataHint	Counts are calculated locally. Only enabled, minimized summaries can be sent to Gemini.	Les compteurs sont calculés localement. Seuls les résumés autorisés et minimisés peuvent être envoyés à Gemini.	تُحسب الأعداد محليًا. يمكن إرسال الملخصات المفعّلة والمختصرة فقط إلى Gemini.
+ai.privacyBadge	Privacy-first · read-only	Confidentialité · lecture seule	الخصوصية أولًا · للقراءة فقط
+ai.redacted	Personal identifiers were removed. Use local search for individual student records.	Les identifiants personnels ont été retirés. Utilisez la recherche locale pour les dossiers individuels.	تمت إزالة المعرّفات الشخصية. استخدم البحث المحلي لسجلات الطلاب الفردية.
+ai.requestError	Your message could not be answered. No school records were changed.	Votre question n’a pas pu recevoir de réponse. Aucune donnée scolaire n’a été modifiée.	تعذرت الإجابة على رسالتك. لم يتم تغيير أي سجل مدرسي.
+ai.error.provider_not_configured	Gemini is not configured. Add GEMINI_API_KEY and GEMINI_MODEL to the server environment.	Gemini n’est pas configuré. Ajoutez GEMINI_API_KEY et GEMINI_MODEL côté serveur.	لم يتم إعداد Gemini. أضف GEMINI_API_KEY وGEMINI_MODEL إلى بيئة الخادم.
+ai.error.auth_not_configured	Secure access is not configured on the server. Set CAMPUS_AI_DEMO_CODE for a private demo, or set up Supabase Auth.	L’accès sécurisé n’est pas configuré sur le serveur. Définissez CAMPUS_AI_DEMO_CODE pour une démo privée, ou configurez Supabase Auth.	لم يتم إعداد الوصول الآمن على الخادم. عيّن CAMPUS_AI_DEMO_CODE لعرض تجريبي خاص، أو أعدّ Supabase Auth.
+ai.error.unauthorized	Access was not verified. Enter the private demo access code, or sign in with a verified administrator account. The temporary admin login alone cannot authorize the AI backend.	L’accès n’a pas été vérifié. Saisissez le code d’accès démo privé ou connectez-vous avec un compte administrateur vérifié. La connexion temporaire seule ne peut pas autoriser le serveur IA.	لم يتم التحقق من الوصول. أدخل رمز الوصول التجريبي الخاص أو سجّل الدخول بحساب مسؤول موثّق. لا يمكن لتسجيل الدخول المؤقت وحده تفويض خادم الذكاء الاصطناعي.
+ai.error.invalid_api_key	The Gemini API key was rejected. Replace it in the server environment.	La clé API Gemini a été rejetée. Remplacez-la côté serveur.	تم رفض مفتاح Gemini API. استبدله في بيئة الخادم.
+ai.error.quota_exceeded	The Gemini quota has been reached. Check your provider billing or try again later.	Le quota Gemini est atteint. Vérifiez la facturation ou réessayez plus tard.	تم بلوغ حصة Gemini. تحقق من الفوترة أو حاول لاحقًا.
+ai.error.network_error	The AI provider could not be reached. Check the connection and try again.	Le fournisseur IA est inaccessible. Vérifiez la connexion et réessayez.	تعذر الوصول إلى مزوّد الذكاء الاصطناعي. تحقق من الاتصال وحاول مجددًا.
+ai.error.invalid_response	The provider returned an invalid or empty response. Please try again.	Le fournisseur a renvoyé une réponse invalide ou vide. Réessayez.	أعاد المزوّد استجابة غير صالحة أو فارغة. حاول مجددًا.
+ai.error.server_error	The AI service encountered an error. Please try again later.	Le service IA a rencontré une erreur. Réessayez plus tard.	واجهت خدمة الذكاء الاصطناعي خطأ. حاول لاحقًا.
+ai.error.request_too_large	This request is too large. Start a new conversation or shorten your message.	La requête est trop volumineuse. Réduisez le message ou créez une conversation.	هذا الطلب كبير جدًا. ابدأ محادثة جديدة أو اختصر رسالتك.
+ai.error.invalid_request	The request could not be validated. Please try a shorter message.	La requête n’a pas pu être validée. Essayez un message plus court.	تعذر التحقق من الطلب. جرّب رسالة أقصر.
+ai.error.rate_limited	Too many requests. Please wait a minute before trying again.	Trop de requêtes. Patientez une minute avant de réessayer.	طلبات كثيرة جدًا. انتظر دقيقة قبل المحاولة مجددًا.
+ai.error.ai_disabled	Campus AI is disabled in your settings.	Campus AI est désactivé dans vos paramètres.	Campus AI معطّل في إعداداتك.
+ai.error.provider_error	The provider could not complete this request. Try again later.	Le fournisseur n’a pas pu traiter la demande. Réessayez plus tard.	تعذر على المزوّد إكمال الطلب. حاول لاحقًا.
+ai.toolsUsed	{{count}} read-only data queries	{{count}} requêtes de données en lecture seule	{{count}} استعلام بيانات للقراءة فقط
+ai.historyOff	History saving is off. This conversation is temporary.	L’historique est désactivé. Cette conversation est temporaire.	حفظ السجل متوقف. هذه المحادثة مؤقتة.
+ai.context	Live data · {{date}}	Données en direct · {{date}}	بيانات مباشرة · {{date}}
+ai.sourceMeasured	Measured school statistics	Statistiques scolaires mesurées	إحصاءات مدرسية مقاسة
+ai.sourceAI	AI-generated commentary	Commentaire généré par l’IA	تعليق منشأ بالذكاء الاصطناعي
+reports.generator	Report generator	Générateur de rapports	منشئ التقارير
+reports.subtitle	Export measured statistics from your actual school records.	Exportez les statistiques mesurées de vos données scolaires réelles.	صدّر إحصاءات مقاسة من سجلات مدرستك الفعلية.
+reports.type	Report type	Type de rapport	نوع التقرير
+reports.daily	Daily attendance	Présences du jour	الحضور اليومي
+reports.weekly	Weekly attendance	Présences de la semaine	الحضور الأسبوعي
+reports.monthly	Monthly attendance	Présences du mois	الحضور الشهري
+reports.classes	Class attendance comparison	Comparaison des présences par classe	مقارنة الحضور بين الأقسام
+reports.items	Lost & Found summary	Bilan des objets trouvés	ملخص المفقودات والموجودات
+reports.activity	Administrative activity summary	Bilan de l’activité administrative	ملخص النشاط الإداري
+reports.anchor	Reference date	Date de référence	التاريخ المرجعي
+reports.generate	Generate report	Générer le rapport	إنشاء التقرير
+reports.period	Report period	Période du rapport	فترة التقرير
+reports.summary	Summary	Résumé	الملخص
+reports.statistics	Key statistics	Statistiques clés	الإحصاءات الرئيسية
+reports.observations	Calculated observations	Observations calculées	ملاحظات محسوبة
+reports.conclusion	Conclusion	Conclusion	الخلاصة
+reports.measuredNotice	This report contains measured statistics only, not AI-generated observations. No records were changed.	Ce rapport contient uniquement des statistiques mesurées, sans observations générées par IA. Aucune donnée n’a été modifiée.	يحتوي هذا التقرير على إحصاءات مقاسة فقط، وليس ملاحظات منشأة بالذكاء الاصطناعي. لم يتم تغيير أي سجل.
+reports.attendanceSummary	{{recorded}} attendance entries were recorded. {{present}} were present or late, {{absent}} absent, and {{excused}} excused.	{{recorded}} présences ont été renseignées : {{present}} présents ou en retard, {{absent}} absents et {{excused}} justifiés.	تم تسجيل {{recorded}} إدخال حضور. {{present}} حاضرون أو متأخرون، و{{absent}} غائبون، و{{excused}} غياب مبرر.
+reports.itemSummary	{{total}} items are registered: {{lost}} lost, {{found}} found, {{claimed}} claimed, and {{archived}} archived.	{{total}} objets enregistrés : {{lost}} perdus, {{found}} trouvés, {{claimed}} restitués et {{archived}} archivés.	تم تسجيل {{total}} عنصرًا: {{lost}} مفقود، و{{found}} موجود، و{{claimed}} مستلم، و{{archived}} مؤرشف.
+reports.activitySummary	{{total}} administrative actions were recorded during this period.	{{total}} actions administratives ont été enregistrées sur cette période.	تم تسجيل {{total}} إجراء إداري خلال هذه الفترة.
+reports.observationRate	The attendance rate is {{rate}}% of recorded entries. {{unrecorded}} active student-days in the selected range have no record.	Le taux de présence est de {{rate}} % des données renseignées. {{unrecorded}} journées d’élèves actifs ne sont pas renseignées.	نسبة الحضور هي {{rate}}٪ من الإدخالات المسجلة. {{unrecorded}} يوم طالب نشط في النطاق المحدد بدون سجل.
+reports.observationClasses	{{count}} classes have attendance records in this period.	{{count}} classes ont des présences enregistrées sur cette période.	{{count}} قسمًا لديها سجلات حضور في هذه الفترة.
+reports.observationItems	{{count}} items are still awaiting collection.	{{count}} objets attendent encore une remise.	{{count}} عنصرًا لا يزال بانتظار الاستلام.
+reports.conclusionText	Use these figures alongside your school’s records. Missing attendance entries are excluded from attendance-rate calculations.	Utilisez ces chiffres avec les registres de l’établissement. Les présences non renseignées sont exclues du calcul des taux.	استخدم هذه الأرقام إلى جانب سجلات مدرستك. تُستبعد إدخالات الحضور المفقودة من حساب النسب.
+reports.noData	There are no records for this report yet. Add real school records, then generate it again.	Aucune donnée disponible pour ce rapport. Ajoutez des données réelles, puis générez-le à nouveau.	لا توجد سجلات لهذا التقرير بعد. أضف سجلات مدرسية فعلية، ثم أنشئه مجددًا.
+reports.generated	Report generated from your current data.	Rapport généré à partir de vos données actuelles.	تم إنشاء التقرير من بياناتك الحالية.
+validation.required	This field is required.	Ce champ est obligatoire.	هذا الحقل مطلوب.
+validation.studentIdUnique	This student ID is already registered.	Cet identifiant élève est déjà utilisé.	رقم الطالب هذا مسجّل بالفعل.
+validation.email	Enter a valid email address.	Saisissez une adresse e-mail valide.	أدخل بريدًا إلكترونيًا صالحًا.
+validation.url	Enter a valid website starting with https:// or http://.	Saisissez un site valide commençant par https:// ou http://.	أدخل موقعًا صالحًا يبدأ بـ https:// أو http://.
+validation.dateRange	The end date must be on or after the start date.	La date de fin doit suivre ou égaler la date de début.	يجب أن يكون تاريخ النهاية في يوم البداية أو بعده.
+validation.futureDate	This date cannot be in the future.	La date ne peut pas être dans le futur.	لا يمكن أن يكون هذا التاريخ في المستقبل.
+validation.futureDob	Date of birth cannot be in the future.	La date de naissance ne peut pas être dans le futur.	لا يمكن أن يكون تاريخ الميلاد في المستقبل.
+validation.claimDate	Collection cannot be before the report date.	La remise ne peut pas précéder le signalement.	لا يمكن أن يسبق الاستلام تاريخ البلاغ.
+validation.reasonRequired	Please provide a reason for this absence.	Veuillez indiquer le motif de cette absence.	يرجى تقديم سبب لهذا الغياب.
+validation.imageType	Please choose a PNG, JPG, or JPEG image.	Choisissez une image PNG, JPG ou JPEG.	يرجى اختيار صورة PNG أو JPG أو JPEG.
+validation.imageSize	This image is too large. Choose an image smaller than 10 MB.	Image trop volumineuse. Choisissez moins de 10 Mo.	هذه الصورة كبيرة جدًا. اختر صورة أصغر من 10 ميغابايت.
+validation.imageInvalid	This image could not be read. Try another file.	Impossible de lire cette image. Essayez un autre fichier.	تعذرت قراءة هذه الصورة. جرّب ملفًا آخر.
+validation.storageFull	Device storage is full. Remove large uploaded images or export a backup before freeing space.	Le stockage est plein. Supprimez de grandes images ou exportez une sauvegarde avant de libérer de l’espace.	مساحة تخزين الجهاز ممتلئة. أزل الصور الكبيرة أو صدّر نسخة احتياطية قبل تفريغ المساحة.
+validation.storageUnavailable	Browser storage is unavailable. Allow local storage and try again.	Le stockage du navigateur est indisponible. Autorisez-le et réessayez.	تخزين المتصفح غير متاح. اسمح بالتخزين المحلي وحاول مجددًا.
+validation.form	Check the highlighted fields before saving.	Vérifiez les champs indiqués avant d’enregistrer.	تحقق من الحقول المحددة قبل الحفظ.
+validation.noStudents	Register a student before recording attendance.	Inscrivez un élève avant d’enregistrer les présences.	سجّل طالبًا قبل تسجيل الحضور.
+validation.uploadFailed	The upload could not be saved.	Le fichier n’a pas pu être enregistré.	تعذر حفظ الملف المرفوع.
+validation.clipboard	Copying is unavailable. Select and copy the text instead.	Copie indisponible. Sélectionnez et copiez le texte manuellement.	النسخ غير متاح. حدد النص وانسخه بدلًا من ذلك.
+app.brandTagline	School management	Gestion scolaire	الإدارة المدرسية
+attendance.upsertHint	A record already exists for this date ({{status}}). Saving updates it; no duplicate is created.	Une présence existe déjà pour cette date ({{status}}). Elle sera mise à jour, sans doublon.	يوجد سجل لهذا التاريخ ({{status}}). سيؤدي الحفظ إلى تحديثه دون إنشاء سجل مكرر.
+common.classes	classes	classes	أقسام
+settings.claimedNotifications	Claimed item notifications	Notifications de restitution	إشعارات استلام العناصر
+settings.defaultAttendanceView	Default attendance view	Vue de présence par défaut	عرض الحضور الافتراضي
+app.loadError	Local data could not be loaded. Your records have not been reset. Check that browser storage is available, then reload.	Impossible de charger les données locales. Vos données n’ont pas été réinitialisées. Vérifiez le stockage du navigateur, puis rechargez.	تعذر تحميل البيانات المحلية. لم تتم إعادة تعيين سجلاتك. تحقق من توفر تخزين المتصفح ثم أعد التحميل.
+app.reload	Reload workspace	Recharger l’espace	إعادة تحميل مساحة العمل
+app.notFound	This page could not be found.	Cette page est introuvable.	تعذر العثور على هذه الصفحة.
+settings.vercelDocs	Vercel documentation	Documentation Vercel	وثائق Vercel
+common.none	None	Aucun	لا يوجد
+ai.demoTitle	Private demo access	Accès démo privé	الوصول التجريبي الخاص
+ai.demoDescription	Enter the access code you set in Vercel (CAMPUS_AI_DEMO_CODE) to unlock Campus AI in this browser tab. This is a temporary demo gate, not full authentication.	Saisissez le code d’accès défini dans Vercel (CAMPUS_AI_DEMO_CODE) pour déverrouiller Campus AI dans cet onglet. C’est une protection de démonstration temporaire, pas une authentification complète.	أدخل رمز الوصول الذي حددته في Vercel (CAMPUS_AI_DEMO_CODE) لفتح Campus AI في علامة التبويب هذه. هذه حماية تجريبية مؤقتة وليست مصادقة كاملة.
+ai.demoPlaceholder	Access code	Code d’accès	رمز الوصول
+ai.demoUnlock	Unlock	Déverrouiller	فتح
+ai.demoUnlocked	Demo access unlocked for this tab.	Accès démo déverrouillé pour cet onglet.	تم فتح الوصول التجريبي لعلامة التبويب هذه.
+ai.demoLock	Lock	Verrouiller	قفل
+ai.demoWrong	That code was not accepted.	Ce code n’a pas été accepté.	لم يتم قبول هذا الرمز.
+ai.error.response_truncated	The answer was cut off before it finished. Try a shorter or more specific question.	La réponse a été interrompue avant la fin. Essayez une question plus courte ou plus précise.	تم قطع الإجابة قبل اكتمالها. جرّب سؤالًا أقصر أو أكثر تحديدًا.
+ai.error.response_blocked	The provider declined to answer this request. Rephrase your question and try again.	Le fournisseur a refusé de répondre à cette demande. Reformulez votre question et réessayez.	رفض المزوّد الإجابة عن هذا الطلب. أعد صياغة سؤالك وحاول مرة أخرى.
+ai.error.model_not_found	The Gemini model set in GEMINI_MODEL was not found or is no longer available. Choose a current model in the server environment.	Le modèle Gemini défini dans GEMINI_MODEL est introuvable ou n’est plus disponible. Choisissez un modèle actuel dans l’environnement du serveur.	نموذج Gemini المحدد في GEMINI_MODEL غير موجود أو لم يعد متاحًا. اختر نموذجًا حاليًا في بيئة الخادم.

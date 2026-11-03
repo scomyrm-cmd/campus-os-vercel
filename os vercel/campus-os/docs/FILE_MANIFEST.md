@@ -1,0 +1,121 @@
+# File manifest
+
+This workspace started empty. After you selected a fresh implementation, all files below were created for this project. No existing records were overwritten.
+
+## Editable source and configuration
+
+- `.env.example`
+- `.gitignore`
+- `README.md`
+- `SECURITY.md`
+- `START_HERE.md`
+- `THIRD_PARTY_NOTICES.md`
+- `docs/AI_SETUP.md`
+- `docs/ARCHITECTURE.md`
+- `docs/TEST_REPORT.md`
+- `docs/test-results.json`
+- `e2e/app.spec.ts`
+- `index.html`
+- `api/ai.ts`
+- `vercel.json`
+- `docs/VERCEL_MIGRATION.md`
+- `package-lock.json`
+- `package.json`
+- `playwright.config.ts`
+- `postcss.config.js`
+- `public/favicon.svg`
+- `public/fonts/Inter-OFL.txt`
+- `public/fonts/NotoSansArabic-Regular.ttf`
+- `public/fonts/OFL.txt`
+- `scripts/check-i18n.mjs`
+- `scripts/regenerate-i18n.mjs`
+- `scripts/translations.tsv`
+- `server/aiHandler.ts`
+- `server/gemini.ts`
+- `server/security.ts`
+- `server/supabaseProvider.ts`
+- `shared/analytics.ts`
+- `src/App.tsx`
+- `src/components/AIStatus.tsx`
+- `src/components/ActivityFeed.tsx`
+- `src/components/AttendanceForm.tsx`
+- `src/components/Charts.tsx`
+- `src/components/GlobalSearch.tsx`
+- `src/components/ItemForm.tsx`
+- `src/components/Layout.tsx`
+- `src/components/ReportGenerator.tsx`
+- `src/components/StudentForm.tsx`
+- `src/components/ui.tsx`
+- `src/context/AuthContext.tsx`
+- `src/context/DataContext.tsx`
+- `src/context/SettingsContext.tsx`
+- `src/context/ToastContext.tsx`
+- `src/data/aiAdapter.ts`
+- `src/data/repository.ts`
+- `src/data/settings.ts`
+- `src/data/types.ts`
+- `src/i18n.ts`
+- `src/lib/aiClient.ts`
+- `src/lib/conversations.ts`
+- `src/lib/errors.ts`
+- `src/lib/format.ts`
+- `src/lib/reports.ts`
+- `src/lib/storage.ts`
+- `src/lib/utils.ts`
+- `src/locales/ar.json`
+- `src/locales/en.json`
+- `src/locales/fr.json`
+- `src/main.tsx`
+- `src/pages/ActivityLog.tsx`
+- `src/pages/Attendance.tsx`
+- `src/pages/CampusAI.tsx`
+- `src/pages/Dashboard.tsx`
+- `src/pages/Login.tsx`
+- `src/pages/LostFound.tsx`
+- `src/pages/Settings.tsx`
+- `src/pages/Students.tsx`
+- `src/styles/index.css`
+- `supabase/001_school_schema.sql`
+- `tailwind.config.js`
+- `tests/core.test.ts`
+- `tests/server.test.ts`
+- `tsconfig.json`
+- `vite.config.ts`
+- `vitest.config.ts`
+
+## Compiled delivery files
+
+- `dist/assets/CampusAI-39kEU4nf.js`
+- `dist/assets/html2canvas.esm-DXEQVQnt.js`
+- `dist/assets/index-CktmyLYH.css`
+- `dist/assets/index-Dp3VJwfJ.js`
+- `dist/assets/index.es-D48AA96C.js`
+- `dist/assets/inter-cyrillic-ext-wght-normal-BOeWTOD4.woff2`
+- `dist/assets/inter-cyrillic-wght-normal-DqGufNeO.woff2`
+- `dist/assets/inter-greek-ext-wght-normal-DlzME5K_.woff2`
+- `dist/assets/inter-greek-wght-normal-CkhJZR-_.woff2`
+- `dist/assets/inter-latin-ext-wght-normal-DO1Apj_S.woff2`
+- `dist/assets/inter-latin-wght-normal-Dx4kXJAl.woff2`
+- `dist/assets/inter-vietnamese-wght-normal-CBcvBZtf.woff2`
+- `dist/assets/jspdf.es.min-BpoB7MuI.js`
+- `dist/assets/noto-sans-arabic-arabic-wght-normal-BhzieyvS.woff2`
+- `dist/assets/noto-sans-arabic-latin-ext-wght-normal-CIz31GGw.woff2`
+- `dist/assets/noto-sans-arabic-latin-wght-normal-BQEJrIpl.woff2`
+- `dist/assets/noto-sans-arabic-math-wght-normal-pS2d8anF.woff2`
+- `dist/assets/noto-sans-arabic-symbols-wght-normal-BJ6p-EzA.woff2`
+- `dist/assets/purify.es-18JuyMri.js`
+- `dist/favicon.svg`
+- `dist/fonts/Inter-OFL.txt`
+- `dist/fonts/NotoSansArabic-Regular.ttf`
+- `dist/fonts/OFL.txt`
+- `dist/index.html`
+
+## Verification screenshots
+
+- `docs/screenshots/campus-ai-reports.png`
+- `docs/screenshots/campus-ai-welcome.png`
+- `docs/screenshots/dashboard-arabic-dark.png`
+- `docs/screenshots/dashboard-empty.png`
+- `docs/screenshots/login.png`
+- `docs/screenshots/mobile-dashboard.png`
+- `docs/screenshots/settings-profile.png`
